@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <resources>
+  <string name="app_name">Two View Compass </string>
+    <string name="DirEast">East</string>
+    <string name="DirWest">West</string>
+    <string name="DirNorth">North</string>
+    <string name="DirSouth">South</string>
+    <string name="DirNorthEast">Northeast</string>
+    <string name="DirNorthNorthEast">North-Northeast</string>
+    <string name="DirEastNorthEast">East-Northeast</string>
+    <string name="DirSouthEast">Southeast</string>
+    <string name="DirEastSouthEast">East-Southeast</string>
+    <string name="DirSouthSouthEast">South-Southeat</string>
+    <string name="DirSouthWest">Southwest</string>
+    <string name="DirSouthSouthWest">South-Southwest</string>
+    <string name="DirWestSouthWest">West-Southwest</string>
+    <string name="DirNorthwest">Northwest</string>
+    <string name="DirWestNorthWest">West-Northwest</string>
+    <string name="DirNorthNorthWest">North-Northwest</string>
+    <string name="numberofDegree">Your degree of Direction = </string>
+
+</resources>
